@@ -2,7 +2,6 @@
 
 >
 > 前15天的内容配套视频。[“Python-Core-50-Courses”](<https://github.com/jackfrued/Python-Core-50-Courses>)>
-> 大家一直催更的《机器学习和深度学习》因个人和公司的原因，一直处于停滞状态，近期会开始更新相关内容，感谢大家一如既往的支持和理解。
 
 ### Python应用领域和职业发展分析
 
